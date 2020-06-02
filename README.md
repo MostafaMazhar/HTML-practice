@@ -8,7 +8,9 @@
 
 ## Description
 
-This is a simple READme exercise creation
+First Webpage exercise creation using
+HTML 
+CSS
 
 
 
