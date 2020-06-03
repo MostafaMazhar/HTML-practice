@@ -8,7 +8,7 @@
 
 ## Description
 
-First Webpage exercise creation using
+First Webpage exercise creation
 
 
 
