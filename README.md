@@ -9,16 +9,16 @@
 ## Description
 
 First Webpage exercise creation using
-HTML 
-CSS
+
 
 
 
 ## Technologies Used
 
-Dillinger
-VS Code 
-Git and Github
+HTML 
+CSS
+
+
 
 
 
