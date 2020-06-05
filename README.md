@@ -8,17 +8,17 @@
 
 ## Description
 
-First Webpage exercise creation using
-HTML 
-CSS
+First Webpage exercise creation
+
 
 
 
 ## Technologies Used
 
-Dillinger
-VS Code 
-Git and Github
+HTML 
+CSS
+
+
 
 
 
